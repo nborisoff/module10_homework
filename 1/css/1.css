@@ -1,0 +1,19 @@
+.btn {
+    display: flex;
+    padding: 10px 15px;
+    background: rgba(135, 206, 250, 0.575);
+
+    border: 1px solid transparent;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn__text {
+    margin-right: 10px;
+}
+
+.btn__icon {
+    width: 15px;
+    height: 15px;
+}
